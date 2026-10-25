@@ -1,7 +1,4 @@
 #ifndef LS_MEM_SNAPSHOT_20171021_H
 #define LS_MEM_SNAPSHOT_20171021_H
-
-/* 这个库是不提供外部接口的，所有对外头文件为空 */
-
-
+/* No application API: load libmem_snapshot.so with LD_PRELOAD at startup. */
 #endif
